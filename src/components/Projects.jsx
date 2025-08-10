@@ -17,7 +17,7 @@ const SAMPLE = [
     desc: "Order flow UI and trade planner.",
     tags: ["UI", "Trading"],
     image: Hub,
-    link: "#",
+    link: "https://mujiib-trading-hub.vercel.app/",
   },
   {
     title: "Onchain Resume",
