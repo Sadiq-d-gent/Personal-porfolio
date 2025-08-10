@@ -10,7 +10,7 @@ const SAMPLE = [
     desc: "Realtime charts and theming.",
     tags: ["React", "Chart.js"],
     image: dash,
-    link: "#",
+    link: "https://react-crypto-dashboard-hehm.vercel.app/",
   },
   {
     title: "Trading Hub",
