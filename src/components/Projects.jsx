@@ -24,7 +24,7 @@ const SAMPLE = [
     desc: "Web3 frontend & wallet connect.",
     tags: ["Web3", "Wagmi"],
     image: Resume,
-    link: "#",
+    link: "https://portfolio-eight-virid-70.vercel.app/",
   },
 ];
 
