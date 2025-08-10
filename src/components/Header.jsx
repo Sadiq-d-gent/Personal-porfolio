@@ -63,7 +63,7 @@ export default function Navbar() {
             className="w-10 h-10 rounded-full object-cover shadow-md"
           />
           <span className="text-indigo-600 font-bold text-xl select-none">
-            Sadiq 𝕯𝖊_𝖌𝖊𝖓𝖙
+            𝕯𝖊_𝖌𝖊𝖓𝖙
           </span>
         </a>
 
