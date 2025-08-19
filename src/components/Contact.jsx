@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const socials = [
   {
     name: "Twitter",
-    href: "https://twitter.com/yourhandle",
+    href: "https://twitter.com/Sadiq_ahmad_",
     icon: (
       <svg
         fill="currentColor"
@@ -32,7 +32,7 @@ const socials = [
   },
   {
     name: "GitHub",
-    href: "https://github.com/yourhandle",
+    href: "https://github.com/Sadiq-d-gent",
     icon: (
       <svg
         fill="currentColor"
@@ -47,7 +47,7 @@ const socials = [
 
   {
     name: "WhatsApp",
-    href: "https://wa.me/yourwhatsappphonenumber",
+    href: "https://wa.me/+2348132694876",
     icon: (
       <svg
         fill="currentColor"
